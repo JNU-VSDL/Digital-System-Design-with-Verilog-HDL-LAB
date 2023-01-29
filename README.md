@@ -1,1 +1,1 @@
-# Digital-System-Design-with-Verilog-HDL-LAB-
+# Digital System Design with Verilog HDL (LAB)
